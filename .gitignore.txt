@@ -1,0 +1,10 @@
+*.sln
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.config
+*.csproj
+*.exe
+*.pdb
+*.cache
